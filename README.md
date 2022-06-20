@@ -25,4 +25,4 @@ What are some limitations of this dataset?
 * One of the limitations from this data might be that it was only collected from 2014-2017, in order to see a better trend in successful campaigns it will need a few more years worth of data to actually be able to predict a better outcome for the client.
 
 What are some other possible tables and/or graphs that we could create?
-One graph that we can incorporate for the outcomes of the launch date might be bar graphs, while line graphs are very discriptive, bar graphs might be able to differentiate the differences a bit better in a visual way. Bar graphs are also much easier to read than line graphs. 
+* One graph that we can incorporate for the outcomes of the launch date might be bar graphs, while line graphs are very discriptive, bar graphs might be able to differentiate the differences a bit better in a visual way. Bar graphs are also much easier to read than line graphs. 
