@@ -15,9 +15,14 @@ The purpose of this project was to break down the data provided to help Louise f
 ## Results
 What are two conclusions you can draw about the Outcomes based on Launch Date?
 * The two main conclusions from the analysis of Launch date were that the best months that had a significant amount of success rates were in the months of May and June. While the month of December had a significantly lower amount of success. It would be best, according to the findings, to hold campaigns during the months of May and June, and deter from campaigning at the end of the year. 
+
+
 What can you conclude about the Outcomes based on Goals?
 * In this graph you can see that campaign goals should be kept below the $5000 mark. From the data, the vast majority of successful campaigns had goals of a $1000 and as it gets to the $5000 target the graphs dips. Therefore, for a successful campaign keep the goal below $5000.
+
+
 What are some limitations of this dataset?
 * One of the limitations from this data might be that it was only collected from 2014-2017, in order to see a better trend in successful campaigns it will need a few more years worth of data to actually be able to predict a better outcome for the client.
+
 What are some other possible tables and/or graphs that we could create?
 One graph that we can incorporate for the outcomes of the launch date might be bar graphs, while line graphs are very discriptive, bar graphs might be able to differentiate the differences a bit better in a visual way. Bar graphs are also much easier to read than line graphs. 
